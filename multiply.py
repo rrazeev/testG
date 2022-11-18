@@ -1,2 +1,3 @@
 print("Logic for multiplication")
-Print("Updated multiply new logic")
+print("Updated multiply new logic")
+print(" Adding new logic to master branch")
