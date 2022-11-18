@@ -1,0 +1,1 @@
+print("Logic for multiplication")
